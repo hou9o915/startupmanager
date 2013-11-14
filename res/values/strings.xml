@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Startup Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable">允许</string>
+    <string name="disable">禁止</string>
+
+</resources>

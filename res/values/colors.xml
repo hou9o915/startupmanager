@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000</color>
+    
+   	<color name="light_black_normal">#4C000000</color>
+   	<color name="light_black_pressed">#7F000000</color>
+   	<color name="red_normal">#FFDD5F7A</color>
+   	<color name="red_pressed">#FFC6556E</color>
+   	<color name="orange_normal">#FFEA7154</color>
+   	<color name="orange_pressed">#FFD2654B</color>
+   	<color name="yellow_normal">#FFF4A856</color>
+   	<color name="yellow_pressed">#FFDB974D</color>
+   	<color name="yellowgreen_normal">#FFADC15B</color>
+   	<color name="yellowgreen_pressed">#FF9BAD52</color>
+   	<color name="green_normal">#FF80BF95</color>
+   	<color name="green_pressed">#FF73AC86</color>
+   	<color name="blue_normal">#FF7CB7E8</color>
+   	<color name="blue_pressed">#FF6FA4D0</color>
+   	<color name="purple_normal">#FFB3A3D1</color>
+   	<color name="purple_pressed">#FFA192BC</color>
+    <color name="gray_normal">#FFE6EDE2</color>
+   	<color name="gray_pressed">#FFD5CFCB</color>
+   	<color name="dark_gray">#FF1A1A1A</color>
+   	
+    <color name="light_background">#FFEDE6E2</color>
+   	<color name="dark_background">#FF2B2B2B</color>
+   	<color name="navi_background">#FF3F3F3F</color>
+   	
+    
+    <color name="font_black_normal">#FF4D4D4D</color>
+   	<color name="font_black_pressed">#FFB9B2AA</color>
+    <color name="font_white_normal">#FFFFFFFF</color>
+   	<color name="font_white_pressed">#FFB3B3B3</color>
+    
+</resources>
